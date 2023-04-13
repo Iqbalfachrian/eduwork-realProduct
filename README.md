@@ -8,6 +8,9 @@ Test case yang diuji yaitu checkout sebuah barang di aplikasi LuLu Shopping seba
 <br>
 <br>
 
+<h3>Link download aplikasi</h3>
+https://m.apkpure.com/lulu-shopping/com.lulu.commerce/download/127-APK-fe10f3fedf5effc2f484e48a355f3e31
+
 <h3>Test Suite Report di Google Docs</h3>
 https://docs.google.com/document/d/1nOo1wYgN9OjyEItqOGYWtgwZqQW878fQIXIUEorwsYI/edit?usp=sharing
 
